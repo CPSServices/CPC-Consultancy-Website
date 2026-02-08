@@ -1,0 +1,3 @@
+<footer>
+<p>© 2026 CPC Consultancy. All rights reserved.</p>
+</footer>

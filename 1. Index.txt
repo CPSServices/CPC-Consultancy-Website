@@ -1,0 +1,74 @@
+index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>CPC Consultancy</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f9;
+}
+
+header {
+    background: #0b3d91;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background: #222;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>CPC Consultancy</h1>
+<p>Professional Consultancy Services</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section>
+<h2>Welcome</h2>
+<p>We help businesses grow through expert consultancy, strategy, and professional advisory services.</p>
+</section>
+
+<footer>
+<p>© 2026 CPC Consultancy</p>
+</footer>
+
+</body>
+</html>
